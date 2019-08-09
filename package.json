@@ -1,0 +1,13 @@
+{
+  "name": "perf-api-pages",
+  "version": "1.0.0",
+  "description": "A project for explaining the web api for enhancing the page performance.",
+  "main": "index.js",
+  "repository": "https://github.com/Legend-Tang/perf-apis.git",
+  "author": "legendscott@163.com <legendscott@163.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
